@@ -1,2 +1,3 @@
-# botometer
-Investigate tweets and Twitter accounts using botometer.
+# Botometer
+
+Investigate tweets and a set of Twitter accounts using botometer.
